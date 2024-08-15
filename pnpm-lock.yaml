@@ -11,9 +11,6 @@ importers:
       '@types/node':
         specifier: ^22.3.0
         version: 22.3.0
-      node:
-        specifier: link:@types\node
-        version: link:@types/node
 
 packages:
 
